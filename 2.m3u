@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Foot FHD" tvg-logo="http://xplatinmedia.com:8080/images/1391457d249ee86e3200dc5686092b8b.png" group-title="SPORT",FR: Canal+ Foot FHD
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/945732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Premier League FHD" tvg-logo="http://xplatinmedia.com:8080/images/a263701b9421a46e3c1c1099954aa18f.png" group-title="SPORT",FR: Canal+ Premier League FHD
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/945738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Sport FHD" tvg-logo="http://xplatinmedia.com:8080/images/f0c052a0cb24990cc698f0f1791b60f5.png" group-title="SPORT",FR: Canal+ Sport FHD
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/945742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Sport HD" tvg-logo="http://xplatinmedia.com:8080/images/f0c052a0cb24990cc698f0f1791b60f5.png" group-title="SPORT",FR: Canal+ Sport HD
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/945743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 FHD" tvg-logo="http://xplatinmedia.com:8080/images/0115e0905eb6b032fc967949252e94d8.png" group-title="SPORT",ES: DAZN 1 FHD
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/853673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 Full HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.png" group-title="SPORT",ES: DAZN 1 Full HD HEVC
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/853674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 HD" tvg-logo="http://xplatinmedia.com:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.png" group-title="SPORT",ES: DAZN 1 HD
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/853675.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13eme Rue FHD" tvg-logo="http://xplatinmedia.com:8080/images/077ec1f41a1294ae34306143ab396a53.png" group-title="FRANCE",FR: 13eme Rue FHD
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/945623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13eme Rue HD" tvg-logo="http://xplatinmedia.com:8080/images/077ec1f41a1294ae34306143ab396a53.png" group-title="FRANCE",FR: 13eme Rue HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Altice Studio FHD" tvg-logo="http://xplatinmedia.com:8080/images/b9fdd9a4b44f01996d34aac0e814e31a.png" group-title="FRANCE",FR: Altice Studio FHD
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/945657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Altice Studio HD" tvg-logo="http://xplatinmedia.com:8080/images/b9fdd9a4b44f01996d34aac0e814e31a.png" group-title="FRANCE",FR: Altice Studio HD
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/945658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Box Office FHD" tvg-logo="http://xplatinmedia.com:8080/images/e305d79bb5a671a6bdfea03c7e2508d8.png" group-title="FRANCE",FR: Canal+ Box Office FHD
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/945726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Cinema FHD" tvg-logo="http://xplatinmedia.com:8080/images/4782908cd64ce8e425821dceb35da002.png" group-title="FRANCE",FR: Canal+ Cinema FHD
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/945727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Cinema HD" tvg-logo="http://xplatinmedia.com:8080/images/4782908cd64ce8e425821dceb35da002.png" group-title="FRANCE",FR: Canal+ Cinema HD
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/945728.m3u8
+
+
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="USA",US: AMC
+http://blazetv.link:8080/live/ktthornton1965@gmail.com/wrBzkx5FRzd7/707413.m3u8
+
