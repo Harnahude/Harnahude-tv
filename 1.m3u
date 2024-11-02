@@ -1,0 +1,85 @@
+#EXTM3U
+
+#EXTINF:0,<<<<<Les chaines sport>>>>>
+<<<<<Les chaines sport>>>>>
+
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png",Canal+ Foot
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CANAL%2B+FOOT
+
+#EXTINF:-1 tvg-id="CanalPlusTop14.fr" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Canal_Top14BetaLatest.png/revision/latest?cb=20200321215014",Canal+ Top14
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CANAL%2B+TOP+14
+
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png",Canal+ Premier League
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CANAL%2B+PREMIER+LEAGUE
+
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CANAL+SPORT
+
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" group-title="SPORT" tvg-logo="https://c0.klipartz.com/pngpicture/320/259/gratis-png-bein-sports-1-logo-bein-taquilla-bein-media-group-canal-de-television.png",beIn Sports 1
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=BEIN+SPORTS+1
+
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beIn Sports 2
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=BEIN+SPORTS+2
+
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",beIn Sports 3
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=BEIN+SPORTS+3
+
+#EXTINF:-1 tvg-id="DAZN.fr" group-title="SPORT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002",DAZN 1
+plugin://plugin.video.vavooto/?name=DAZN+1
+
+#EXTINF:-1 tvg-id="RMCSport1.fr" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png",RMC Sport 1
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=RMC+SPORT+1
+
+#EXTINF:-1 tvg-id="RMCSport2.fr" group-title="SPORT" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png",RMC Sport 2
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=RMC+SPORT+2
+
+#EXTINF:0,<<<<<Les chaines Canal +>>>>>
+<<<<<Les chaines Canal +>>>>>
+
+#EXTINF:-1 tvg-id="CANAL+" group-title="CANAL+" tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-1995-768x432.png",CANAL+
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CANAL%2B
+
+#EXTINF:-1 tvg-id="CANAL+ CINEMA" group-title="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/768px-Canal%2B_Cin%C3%A9ma_2013.svg.png?20180827205430",CANAL+ CINEMA
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CANAL%2b%20CINEMA
+
+#EXTINF:-1 tvg-id="CanalPlusSeries.fr" group-title="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png",CANAL+.SERIES
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CANAL%2B+SERIES
+
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal%2B_Docs.png",Canal+ Docs
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CANAL%2B+DOCS
+
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" group-title="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/da/C%2B_Grand_%C3%89cran.png",CanalPlusGrandEcran.fr
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CANAL%2B+GRAND+ECRAN
+
+#EXTINF:-1 tvg-id="CANAL+PLUS+C+NEMA" group-title="CANAL+",Canalplus C NEMA
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CANAL+PLUS+C+NEMA
+
+#EXTINF:-1 tvg-id="CANAL+ELLES" group-title="CANAL+" tvg-logo="https://i0.wp.com/mimimefoinfos.com/wp-content/uploads/2023/10/photo1697129921.jpeg?fit=360%2C270&ssl=1",Canal Elles
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CANAL%2B+ELLES
+
+#EXTINF:-1 tvg-id="CANAL+FILM" group-title="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Canal%2B_Film_HD.png",Canal Film
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CANAL%2B+FILM
+
+#EXTINF:0,<<<<<Les Chaines Discovery>>>>>
+<<<<<Les chaines Discovery>>>>>
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1280px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=DISCOVERY
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1280px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=DISCOVERY+CHANNEL
+
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" group-title="Discovery" tvg-logo="https://https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png",Discovery Science
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=DISCOVERY+SCI-FI
+
+#EXTINF:0,<<<<<Autre>>>>>
+<<<<<Autres chaines>>>>>
+
+#EXTINF:-1 tvg-id="Syfy.fr" group-title="Autre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1024px-Syfy.svg.png",Syfy
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=SYFY
+
+#EXTINF:-1 tvg-id="13eRue.fr" group-title="Autre" tvg-logo="https://lesvoix.fr/wp-content/uploads/2019/12/13%C3%A8me-rue-logo.jpg",13ème Rue
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=13EME+RUE
+
+#EXTINF:-1 tvg-id="ChasseEtPeche.fr" group-title="Autre" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg/1280px-Chasse_%26_P%C3%AAche_%282013%29.svg.png",Chasse Et Peche
+plugin://plugin.video.aguiavavoo/?action=&group=France&name=CHASSE+ET+PECHE
